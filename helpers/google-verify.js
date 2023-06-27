@@ -16,8 +16,6 @@ async function googleVerify(token = '') {
     img: picture,
     correo: email
   }
-
-
 }
 
 
